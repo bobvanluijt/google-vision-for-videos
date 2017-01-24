@@ -1,0 +1,24 @@
+{
+  "name": "computer-vision-gcloud",
+  "version": "0.0.1",
+  "description": "",
+  "main": "vision.js",
+  "dependencies": {
+    "google-cloud": "^0.45.2",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bobvanluijt@github.com/bobvanluijt/computer-vision-gcloud.git"
+  },
+  "author": "Bob van Luijt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobvanluijt/computer-vision-gcloud/issues"
+  },
+  "homepage": "https://github.com/bobvanluijt/computer-vision-gcloud#readme"
+}
