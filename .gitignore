@@ -1,2 +1,5 @@
 keyfile.json
+vision.js
 node_modules/
+data/
+.DS_Store
